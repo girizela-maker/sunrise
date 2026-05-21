@@ -1,0 +1,1 @@
+export default function Home(){return <div style={{padding:40}}>Replace with full Sunrise Villa canvas code.</div>}
